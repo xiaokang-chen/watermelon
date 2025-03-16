@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-csharp.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-csharp.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-csharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-csharp.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-csharp.pdb

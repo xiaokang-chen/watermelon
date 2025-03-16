@@ -1,0 +1,9 @@
+
+=== Mon Dec  9 00:00:16 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.feature.2d from version 1.0.0 to 2.0.1
+  com.unity.test-framework from version 1.1.29 to 1.1.33

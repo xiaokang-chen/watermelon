@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615f5934679fa8545ab447141f6db5fa, type: 3}
+  m_Name: VFTable
+  m_EditorClassIdentifier: 
+  _videoDatas:
+  - name: VideoScene1
+    characteristic: 1
+    lastVideo: 0
+    VideoUrl: https://a.unity.cn/client_api/v1/buckets/756dde03-88b1-4d66-b177-3f6cdb5f860f/content/1.mp4
+    nextVideo: 2
+    designatedVideo: 0
+    action: 2
+    gameSceneName: 
+  - name: VideoScene2
+    characteristic: 2
+    lastVideo: 1
+    VideoUrl: https://a.unity.cn/client_api/v1/buckets/756dde03-88b1-4d66-b177-3f6cdb5f860f/content/2.mp4
+    nextVideo: 3
+    designatedVideo: 0
+    action: 2
+    gameSceneName: 
+  - name: VideoScene3
+    characteristic: 3
+    lastVideo: 2
+    VideoUrl: https://a.unity.cn/client_api/v1/buckets/756dde03-88b1-4d66-b177-3f6cdb5f860f/content/3.mp4
+    nextVideo: 4
+    designatedVideo: 0
+    action: 5
+    gameSceneName: OldWang

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-unity.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Wx.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-unity-editor.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-csharp.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\WxEditor.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Assembly-CSharp.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Assembly-CSharp.pdb

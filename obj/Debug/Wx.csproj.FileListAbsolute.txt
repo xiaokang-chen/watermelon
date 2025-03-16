@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Wx.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Wx.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Wx.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Wx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Wx.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\Wx.pdb

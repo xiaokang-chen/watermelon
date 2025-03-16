@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-unity-editor.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-unity-editor.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-csharp.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\spine-unity.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-unity-editor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-unity-editor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-unity-editor.csproj.CopyComplete
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-unity-editor.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\spine-unity-editor.pdb

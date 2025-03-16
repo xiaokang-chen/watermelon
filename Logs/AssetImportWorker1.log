@@ -1,0 +1,554 @@
+Using pre-set license
+Built from '2021.3/china_unity/release' branch; Version is '2021.3.44f1c1 (0c301d0bd4e3) revision 798749'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16197 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+F:\UnityHubEditor\2021.3.44f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Admin/Desktop/Edge-main/Edge
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+61664
+Successfully changed project path to: C:/Users/Admin/Desktop/Edge-main/Edge
+C:/Users/Admin/Desktop/Edge-main/Edge
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28736] Host "[IP] 192.168.0.105 [Port] 0 [Flags] 2 [Guid] 2471037001 [EditorId] 2471037001 [Version] 1048832 [Id] WindowsEditor(7,PS2022MIHRXRNI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [28736] Host "[IP] 192.168.0.105 [Port] 0 [Flags] 2 [Guid] 2471037001 [EditorId] 2471037001 [Version] 1048832 [Id] WindowsEditor(7,PS2022MIHRXRNI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Refreshing native plugins compatible for Editor in 52.48 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.44f1c1 (0c301d0bd4e3)
+[Subsystems] Discovering subsystems at path F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Admin/Desktop/Edge-main/Edge/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/Managed'
+Mono path[1] = 'F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: F:/UnityHubEditor/2021.3.44f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004762 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 385 ms
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.79 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.084 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1084ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (871ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (113ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (675ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (469ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (110ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.026831 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.87 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Domain Reload Profiling:
+	ReloadAssembly (935ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (697ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (178ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (321ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (142ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1893 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 85 unused Assets / (1.3 MB). Loaded Objects now: 2322.
+Memory consumption went from 118.5 MB to 117.2 MB.
+Total: 2.169900 ms (FindLiveObjects: 0.094400 ms CreateObjectMapping: 0.026400 ms MarkObjects: 1.612700 ms  DeleteObjects: 0.435600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025323 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (965ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (678ms)
+			LoadAssemblies (125ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (181ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (285ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (144ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 75 unused Assets / (1.4 MB). Loaded Objects now: 2325.
+Memory consumption went from 113.4 MB to 112.0 MB.
+Total: 3.818300 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.078200 ms MarkObjects: 2.759400 ms  DeleteObjects: 0.722400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029807 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Domain Reload Profiling:
+	ReloadAssembly (944ms)
+		BeginReloadAssembly (156ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (669ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (174ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (292ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (147ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 75 unused Assets / (1.4 MB). Loaded Objects now: 2328.
+Memory consumption went from 113.5 MB to 112.1 MB.
+Total: 3.408300 ms (FindLiveObjects: 0.212900 ms CreateObjectMapping: 0.067600 ms MarkObjects: 2.406700 ms  DeleteObjects: 0.719900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5733.339660 seconds.
+  path: Assets/Games/Art/开始.png
+  artifactKey: Guid(7cb68f17433a35142b58dc58e8f65b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Art/开始.png using Guid(7cb68f17433a35142b58dc58e8f65b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc23b2e89536a5272ec514913ff3662') in 0.253674 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029017 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Domain Reload Profiling:
+	ReloadAssembly (929ms)
+		BeginReloadAssembly (152ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (662ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (174ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (289ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (146ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 75 unused Assets / (1.4 MB). Loaded Objects now: 2338.
+Memory consumption went from 117.5 MB to 116.1 MB.
+Total: 3.564400 ms (FindLiveObjects: 0.230600 ms CreateObjectMapping: 0.079700 ms MarkObjects: 2.496900 ms  DeleteObjects: 0.755800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 632.074628 seconds.
+  path: Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-2（拖移项目）.tiff
+  artifactKey: Guid(08536b144c91e49c8aef339e68b43259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-2（拖移项目）.tiff using Guid(08536b144c91e49c8aef339e68b43259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd520c7cc649064fcff5bb56a1954449f') in 0.111768 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-4（拖移项目）.tiff
+  artifactKey: Guid(173f5757424214f35bf1ecf6b65a1e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-4（拖移项目）.tiff using Guid(173f5757424214f35bf1ecf6b65a1e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c0433f6bdfe7bd8659b5d57966fef3') in 0.040973 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-5（拖移项目）.tiff
+  artifactKey: Guid(8c77c4900fb0b4f2a91a73aad219ce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-5（拖移项目）.tiff using Guid(8c77c4900fb0b4f2a91a73aad219ce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7060a9f4b1576fbbda0c218f56bb18ef') in 0.040557 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-8（拖移项目）.tiff
+  artifactKey: Guid(abecf0d0ca1f94b53b07ce7eaaac937d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Garden/Finger/手指点击_爱给网_aigei_com-8（拖移项目）.tiff using Guid(abecf0d0ca1f94b53b07ce7eaaac937d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d11cd13a0ac3ed25ee962317c5b36f') in 0.037563 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.034118 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0198.png
+  artifactKey: Guid(f0f763fc8d7444813914409dde32fdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0198.png using Guid(f0f763fc8d7444813914409dde32fdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62760da39c7a07d924cb53ffb757a50f') in 0.070251 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.195479 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0195.png
+  artifactKey: Guid(c8433e69b6ed840fc8062fa097ffd2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0195.png using Guid(c8433e69b6ed840fc8062fa097ffd2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40944a05f7180891d6cf655ef065373f') in 0.073053 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.011459 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0193.png
+  artifactKey: Guid(b9f474e62ffd548f3acf9adc472d672a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0193.png using Guid(b9f474e62ffd548f3acf9adc472d672a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14833f02c356abdb13c942e763cb3602') in 0.069223 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0185.png
+  artifactKey: Guid(f47dca03bbe74440cbedbc411d569b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0185.png using Guid(f47dca03bbe74440cbedbc411d569b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1610e9d3b88c1de26aedc8461b7013') in 0.065988 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0191.png
+  artifactKey: Guid(a6557ff0cc8564d538eb0f3b9b7c0910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0191.png using Guid(a6557ff0cc8564d538eb0f3b9b7c0910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec79fdc0e0b9e7c757b5e82207a9efea') in 0.067992 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0188.png
+  artifactKey: Guid(dfc3d1fc05af4467381b66d57bb06a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0188.png using Guid(dfc3d1fc05af4467381b66d57bb06a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f8bc5c226965aa3fc41787314aa64c') in 0.064261 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0180.png
+  artifactKey: Guid(3a81561df19d24ce18e620315a1ada69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0180.png using Guid(3a81561df19d24ce18e620315a1ada69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93980b21167804407b45a38909df65d') in 0.075157 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0171.png
+  artifactKey: Guid(85db008dfcdba47398fe00c15376a1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0171.png using Guid(85db008dfcdba47398fe00c15376a1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1329e309c627164c39cb6879f6047494') in 0.070893 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0178.png
+  artifactKey: Guid(ca988c088abc245b2a7dfb6ebfbf5d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0178.png using Guid(ca988c088abc245b2a7dfb6ebfbf5d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729f2b7137b678a019e14cd452ff3000') in 0.070654 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0169.png
+  artifactKey: Guid(a2c21b5124c364997b99d3f9edb9c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0169.png using Guid(a2c21b5124c364997b99d3f9edb9c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81c249f2684f747dcc939b0b8bd7f30') in 0.066495 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0166.png
+  artifactKey: Guid(af3d97cf9d6dc491d95b266df28c204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0166.png using Guid(af3d97cf9d6dc491d95b266df28c204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592b70b879d76ce6ad6be8f419f04b48') in 0.068608 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0156.png
+  artifactKey: Guid(cdcb4771822d24d359d81b02791d091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0156.png using Guid(cdcb4771822d24d359d81b02791d091d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba22adff86c9565789e4f7669cc9832c') in 0.069508 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0164.png
+  artifactKey: Guid(9a725051654984f37a2467b528f6b6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0164.png using Guid(9a725051654984f37a2467b528f6b6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee28b9c55a1525d54072bcb46f35a247') in 0.092781 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0150.png
+  artifactKey: Guid(c751e06bff2ce42898ce78ff6c96beac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0150.png using Guid(c751e06bff2ce42898ce78ff6c96beac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3befe09094ddb33eaafdbb8aaae43dc8') in 0.083264 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0154.png
+  artifactKey: Guid(137f3e1d8c7944e53a8f578da9206c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0154.png using Guid(137f3e1d8c7944e53a8f578da9206c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f445fc8f3190b189905a2cbd9575a36') in 0.104540 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0160.png
+  artifactKey: Guid(ebc9461cc009e4ad888e3c208d8bfb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0160.png using Guid(ebc9461cc009e4ad888e3c208d8bfb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff73a25d47833063e16a8deb4df9a52b') in 0.095340 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0145.png
+  artifactKey: Guid(cc5996ee70f18418aaabf6288b014e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0145.png using Guid(cc5996ee70f18418aaabf6288b014e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bb5cb02250969bb3fbd89f9b75c439') in 0.088074 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0158.png
+  artifactKey: Guid(3b695decfdc4e4808bb8c96751bddd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0158.png using Guid(3b695decfdc4e4808bb8c96751bddd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5d21fa9e32f9dcb3b41164951d4dc7') in 0.108546 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0175.png
+  artifactKey: Guid(be9adabfcca5d4086a7d8ad3cd5d4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0175.png using Guid(be9adabfcca5d4086a7d8ad3cd5d4cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52e7ef0d850b05e59c3d9cd192aa148') in 0.077868 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Games/Climb/攀爬无背景/攀爬0177.png
+  artifactKey: Guid(85deb78c16764474c83c1d38ee70a2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Games/Climb/攀爬无背景/攀爬0177.png using Guid(85deb78c16764474c83c1d38ee70a2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7dcf8b3663d767304999a9df16973c') in 0.080986 seconds 
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

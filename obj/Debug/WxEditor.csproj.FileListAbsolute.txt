@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\WxEditor.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\WxEditor.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\Temp\bin\Debug\Wx.pdb
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\WxEditor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\WxEditor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\WxEditor.csproj.CopyComplete
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\WxEditor.dll
+C:\Users\Admin\Desktop\Edge-main\Edge\obj\Debug\WxEditor.pdb

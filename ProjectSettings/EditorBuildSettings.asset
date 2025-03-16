@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: c9b863d9007ea4e119ddb57e98729c08
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e77c8e773b90c4508bda0649a73bd3f6
+  - enabled: 1
+    path: Assets/Scenes/OldWang.unity
+    guid: c391492ba9f7d4c2cbc860c8bb405302
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 1.mp4.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 2.mp4.unity
+    guid: e1277ed8f4a2949c5b0d251cd4666b5b
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 3.mp4.unity
+    guid: 1d921502f190d4e698149630502de09f
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 4.mp4.unity
+    guid: 6f3d77bd6bf8941baaffa6617dad3081
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 5_1.mp4.unity
+    guid: 14b0c961d4cd44d39b2688c328bee7b1
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 5_2.mp4.unity
+    guid: 2b45b2ca716ac4244a1dc9d6107ab424
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 6.mp4.unity
+    guid: e0673790328374494ad8d76f0dead40e
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 7.mp4.unity
+    guid: 4fa6ab282583b41b786b5fa142c84dd1
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 8.mp4.unity
+    guid: b211cd5dba45b4260a97e4f7a198caf6
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 9.mp4.unity
+    guid: 44d91f4f244b04b8caadd1bb6a27bdf1
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 10_1.mp4.unity
+    guid: 15fdf6d2311704157a174839187f8258
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 10_2.mp4.unity
+    guid: 4bc4c4674db9148deb87d6b3a0d6947f
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 11_1.mp4.unity
+    guid: bb156c184d8734bc58ecfb8a56b8283e
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 11_2.mp4.unity
+    guid: 91145e47c0c584a6d9ca4f0a88112355
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 12Before_interactive_options.mp4.unity
+    guid: edfd2531034174fb7a5670eafe5991cd
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 12AOption to hide.mp4.unity
+    guid: c0a34ee8aab934691a1a25a597104870
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 12AOption_failure_rescue.mp4.unity
+    guid: 40001901be10d43fba8acb150f0cc6f9
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 12B.mp4.unity
+    guid: a44903cd68e1e4c15a035b74a4c5cb5c
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 13_1.mp4.unity
+    guid: fde4641e694cb42f8a56f305af9e4a4c
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 13_2.mp4.unity
+    guid: 53c837c31c4824478a6d1baa4ba0f7d0
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 14_1.mp4.unity
+    guid: 96b9fbd514ba047a6a9150232f4a961e
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 14_2.mp4.unity
+    guid: 83f8bd11c455b482b9c72c2a98561e64
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 14Before_Twisting_Bedsheets_Game.mp4.unity
+    guid: 8bfbeee8b3c4a41889625ec52fb356fa
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 15.mp4.unity
+    guid: 349b1d562738c46338f540d7907a9151
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 16.mp4.unity
+    guid: 3fdb023d4a92f4342bd8c0ee9088a80e
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 17.mp4.unity
+    guid: d41bdb297495441e0ab933b994ab44fc
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 18_1.mp4.unity
+    guid: 91c290a8c7d9c4a28b179dc16339f721
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 18_2.mp4.unity
+    guid: 28a04a0f24db649c6b0b98e853cf1311
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 19_1.mp4.unity
+    guid: ea309a755328944628c6119687e92c7b
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 19_2.mp4.unity
+    guid: 543479088f2764ead9b773c60686a867
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 20.mp4.unity
+    guid: 62b202f7c2c9544599bcd30b2c6e63d8
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 21.mp4.unity
+    guid: 4bd7b4e8c53ff4014a6a4b1937a2dfae
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 22.mp4.unity
+    guid: bc49798dc32c04e659fdd60cd234bbfe
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 23.mp4.unity
+    guid: cc83fb1477914467d9f31dedbedd8c43
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 24.mp4.unity
+    guid: 127af812a5e854c519fb97df4a2e1f3f
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 25.mp4.unity
+    guid: bdd7f225880e245bba27bab4f48509bb
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 26.mp4.unity
+    guid: 72c3bc24567ef4f9e83ef8297868684e
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 27_Back_reunion_selection.mp4.unity
+    guid: d427121425e634f44a26baf9a79c35fe
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene 27avg.mp4.unity
+    guid: bdc32d4ecc5b74bf4a34878a6812aab8
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene Team_member_ending.mp4.unity
+    guid: c77588cb9f3aa4b549618108a8017037
+  - enabled: 1
+    path: Assets/Scenes/Video/VideoScene The_ending_of_the_breakup.mp4.unity
+    guid: fdb98f764aef046c7aef02aed760abd6
+  - enabled: 1
+    path: Assets/Scenes/Watermelon.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Games/Climb/Climb.unity
+    guid: 1d8751d2c32254003b37c672a5b72ff3
+  - enabled: 1
+    path: Assets/Games/MusicLevel/MusicLevel.unity
+    guid: f0059e17c91ce4d49b4421754f6695c4
+  - enabled: 1
+    path: Assets/Scenes/PasswordLock.unity
+    guid: a079ecde309de42588d234c0d7cf23ce
+  - enabled: 1
+    path: Assets/Games/Plumber/Scenes/Plumber1.unity
+    guid: 5c9b856308d0e4b309c3d747d89f9860
+  - enabled: 1
+    path: Assets/Games/Plumber/Scenes/Plumber2.unity
+    guid: 38bc15a4b2af9449793056f131b17285
+  - enabled: 1
+    path: Assets/Games/Plumber/Scenes/Plumber3.unity
+    guid: a4352d4516865418dbd76bcd7675554e
+  - enabled: 1
+    path: Assets/Games/Puzzle/Puzzle_1_1.unity
+    guid: 90d833965ee594d5a8f8f53a908a38c0
+  - enabled: 1
+    path: Assets/Games/Puzzle/Puzzle_1_1_1.unity
+    guid: c62579474baea43a5b55cb53c91ac779
+  - enabled: 1
+    path: Assets/Games/Puzzle/Puzzle 2 Garden/Puzzle_1_2.unity
+    guid: 713d2ec1c66474c068a1ea7cf0eeb8eb
+  - enabled: 1
+    path: Assets/Games/Puzzle/Puzzle_1_3.unity
+    guid: a358df29765fc44d6a6644b2190b6e34
+  - enabled: 1
+    path: Assets/Games/Garden/Puzzle 2.unity
+    guid: f2754b1115da1422c93e1c3417cb4088
+  - enabled: 1
+    path: Assets/Games/Garden/Puzzle 3.unity
+    guid: 01ad0e939f35543a8ba4d1aec7bac769
+  - enabled: 1
+    path: Assets/Games/Garden/Puzzle 4.unity
+    guid: 209108fb0c37943c5bfa4db31b069aa7
+  - enabled: 1
+    path: Assets/Scenes/UIGameInstanceB.unity
+    guid: 403df81bcb36e4e35985aa57171d11c9
+  - enabled: 1
+    path: Assets/Scenes/UIGameInstanceB 1.unity
+    guid: 1646c8ffc29af4a508d678a520d23db9
+  - enabled: 1
+    path: Assets/Scenes/UIGameInstanceB 2.unity
+    guid: 6d22f001704c543709a2f582f4c7c477
+  m_configObjects: {}
