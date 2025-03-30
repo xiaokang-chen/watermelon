@@ -3,3 +3,5 @@ Temp/
 *.csproj
 .vs/
 .vscode/
+Logs/
+build/
